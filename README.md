@@ -1,5 +1,7 @@
 # Fashion Forward Review Classification
 
+![Alt Text](gfx/title_image.png)
+
 This project develops a machine learning pipeline for **Fashion Forward**, a fictional fashion brand. The goal is to classify whether a customer review recommends the product (label `1`) or not (label `0`). It leverages text data, performs NLP preprocessing, and trains various models to achieve strong classification performance.
 
 ---
