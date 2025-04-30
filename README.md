@@ -88,6 +88,8 @@ This notebook includes:
 
 - **seaborn** - Advanced statistical plotting
 
+- **nltk** - Natural language processing tools
+
 - **Jupyter Notebook** - Interactive coding environment
 
 ## License
